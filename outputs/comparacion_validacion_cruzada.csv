@@ -1,0 +1,4 @@
+Modelo,exactitud,balanceada,f1_macro
+Mayoritaria,0.741,0.5,0.426
+Regresión logística,0.78,0.636,0.652
+SVC RBF,0.78,0.634,0.649
